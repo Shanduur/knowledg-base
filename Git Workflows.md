@@ -17,10 +17,8 @@
 
 ## GitHub Flow
 
-*Also known as Trunk Based Developement*
-
 - **Infinite lifetime branches:**
-	-   `main`  / `trunk` - this branch contains production code. All development code is merged into `main` in sometime.
+	-   `main` - this branch contains production code. All development code is merged into `main` in sometime.
 - **Limited lifetime branches:**
 	-   `*` - feature branches are used to develop new features for the upcoming releases. Must branch off from `main` and must merge into `main`.
 

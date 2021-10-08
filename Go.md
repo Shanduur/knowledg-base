@@ -41,5 +41,3 @@ default:
 
 - You can spawn as many Go routines as you want.
 - Runing Go program creates as many system threads as logical processors.
-
-## 
