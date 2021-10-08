@@ -1,11 +1,11 @@
 # Working with repositories
 
-1. [Contribution flow](#contribution-flow)
-2. [Git branching workflow](#git-branching-flow)
-3. [Commit message format](#commit-message-format)
-4. [Signing commits](#signing-commits)
-5. [Release tags](#release-tags)
-6. [New repositories](#new-repositories)
+1. [[#Contribution flow]]
+2. [[#Git branching workflow]]
+3. [[#Commit message format]]
+4. [[#Signing commits]]
+5. [[#Release tags]]
+6. [[#New repositories]]
 
 ## Contribution flow
 
